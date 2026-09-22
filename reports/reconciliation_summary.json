@@ -1,0 +1,21 @@
+{
+  "calculated_at": "2026-09-22T03:57:01.825289+00:00",
+  "executive_kpis": {
+    "total_assets": 109,
+    "in_service_assets": 94,
+    "active_work_orders": 3,
+    "open_reconciliation_discrepancies": 4,
+    "critical_ai_risk_alerts": 2
+  },
+  "reconciliation_breakdown": {
+    "location_mismatches": 2,
+    "ghost_assets": 1,
+    "status_mismatches": 1,
+    "total_open": 4
+  },
+  "financial_summary": {
+    "total_capital_asset_value_egp": 10463000.0,
+    "total_maintenance_expenditure_egp": 29000.0,
+    "maintenance_to_asset_value_ratio": 0.0028
+  }
+}
