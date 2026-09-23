@@ -1,0 +1,18 @@
+id,parent_id,code,name,useful_life_months,requires_serial,default_specs,created_at,updated_at
+0cdf117f-36ca-4259-8da3-05a2f5529b77,,IT,Information Technology,,f,{},2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+5d216b89-12a3-42b9-8b59-9660aab5a112,,FURN,Furniture,,f,{},2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+6acf2340-2aec-4b4d-8b9a-d230b0848b5a,,FAC,Facility Equipment,,f,{},2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+c20a36a1-bf32-4b37-bf1c-5a3da128436e,,LAB,Laboratory Equipment,,f,{},2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+928e1185-3903-4639-bd6e-0fe5d4e1bd5e,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT-PC,Desktop Computer,60,t,"{""cpu"": null, ""ram_gb"": null, ""storage_gb"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+6b10649a-5c67-48f5-b4b7-9040805a9348,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT-LAPTOP,Laptop,48,t,"{""cpu"": null, ""ram_gb"": null, ""screen_in"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+95ef5f39-7726-40fc-a96e-a70dc1197538,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT-MONITOR,Monitor,72,t,"{""size_in"": null, ""resolution"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+dcef2060-f580-4ab7-a9eb-745c55d8e893,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT-PRINTER,Printer,60,t,"{""mono"": null, ""type"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+4b27503f-1f69-4ff3-bbc6-f31d8394bbe6,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT-SWITCH,Network Switch,84,t,"{""ports"": null, ""speed_gbps"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+9fc46e12-92c2-4613-b9b1-dd8845412769,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT-PROJ,Projector,48,t,"{""lumens"": null, ""lamp_hours"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+d722453f-11da-442f-b41b-15b9deacbe80,5d216b89-12a3-42b9-8b59-9660aab5a112,FURN-DESK,Office Desk,120,f,"{""material"": null, ""width_cm"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+f01bbdb0-5e6b-46f9-bc6c-97ce11922f55,5d216b89-12a3-42b9-8b59-9660aab5a112,FURN-CHAIR,Office Chair,84,f,"{""material"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+06e541d2-a9a0-47e4-96ff-9533e92db5b6,5d216b89-12a3-42b9-8b59-9660aab5a112,FURN-CAB,Filing Cabinet,144,f,"{""drawers"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+d0e25360-20be-40a4-b4d4-f150206a2e30,6acf2340-2aec-4b4d-8b9a-d230b0848b5a,FAC-AC,Air Conditioner,96,t,"{""btu"": null, ""type"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+ff750985-39b3-490c-ae1d-fc28825b511f,6acf2340-2aec-4b4d-8b9a-d230b0848b5a,FAC-UPS,UPS Unit,60,t,"{""va"": null, ""battery_type"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+f4f70d56-e321-4804-9b2d-7bd5ea0e9255,c20a36a1-bf32-4b37-bf1c-5a3da128436e,LAB-OSC,Oscilloscope,120,t,"{""channels"": null, ""bandwidth_mhz"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00
+f0a14b69-c0ce-4372-ae3d-ae946d801d82,c20a36a1-bf32-4b37-bf1c-5a3da128436e,LAB-3DP,3D Printer,72,t,"{""build_mm"": null, ""filament"": null}",2026-09-21 12:36:10.142818+00,2026-09-21 12:36:10.142818+00

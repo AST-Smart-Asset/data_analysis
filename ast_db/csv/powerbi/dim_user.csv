@@ -1,0 +1,25 @@
+user_id,full_name,email,user_status,mfa_enabled,last_login_at,last_login_date,failed_login_count,is_locked,roles,role_scopes,role_grant_count
+045d7fdc-085d-4681-9f88-1d8b262ba961,Sameh Ragab,auditor.two@bua.test,active,f,2026-09-17 07:36:10.142818+00,2026-09-17,0,f,Auditor,University-wide,1
+05d038a0-b4a2-40fb-9ac6-eecfcf9cda47,Omar Zaki,ee.manager@bua.test,active,f,2026-09-04 17:36:10.142818+00,2026-09-04,0,f,Custodian or Department Manager,Electrical Engineering Department,1
+074adb51-413b-4a95-a297-532a23028420,Mahmoud Saber,tech.one@bua.test,active,f,2026-09-18 15:36:10.142818+00,2026-09-18,2,f,Maintenance Technician,Main Campus,1
+089d3e35-dd8e-48ab-991e-a8f94ccfd969,Waleed Amer,tech.six@bua.test,active,f,2026-09-05 02:36:10.142818+00,2026-09-05,2,f,Maintenance Technician,Faculty of Engineering,1
+176f3f16-3ab1-409e-8c10-9631bea0edcc,Youssef Kamal,ds.manager@bua.test,active,f,2026-09-04 00:36:10.142818+00,2026-09-04,2,f,Custodian or Department Manager,Data Science Department,1
+1c4df881-cca6-49a3-9b2e-6a87a781ef63,Ahmed Shawky,cs.manager@bua.test,active,f,2026-09-07 05:36:10.142818+00,2026-09-07,2,f,Custodian or Department Manager,Computer Science Department,1
+22e61621-8203-4465-a5c1-285eb61ed02a,Sherif Lotfy,purchasing@bua.test,active,f,2026-09-16 02:36:10.142818+00,2026-09-16,2,f,Procurement and Finance Viewer,Finance and Procurement,1
+316fff45-4cbd-4c5f-aa69-23e361e9fdb0,Kareem Nabil,tech.two@bua.test,active,f,2026-09-08 18:36:10.142818+00,2026-09-08,1,f,Maintenance Technician,Faculty of Engineering,1
+49d11b97-7c72-49ce-84b3-5fac923e716e,Platform Super Admin,super.admin@bua.test,active,t,2026-09-04 02:36:10.142818+00,2026-09-04,2,f,Super Administrator,University-wide,1
+60694a33-64df-4703-bb1f-20bc3948e683,Hala Rashad,asset.admin@bua.test,active,t,2026-09-15 17:36:10.142818+00,2026-09-15,1,f,Asset Administrator,Main Campus,1
+63cfd2c4-2600-45b5-8925-b1c9ff6c04ee,Hossam El-Deen,disposal.board@bua.test,active,t,2026-09-19 03:36:10.142818+00,2026-09-19,1,f,Retirement Approver,Main Campus,1
+6ff17eb7-5c04-40ff-83f8-043b4cb1c45c,Mona Abdel Aziz,fin.manager@bua.test,active,f,2026-09-15 19:36:10.142818+00,2026-09-15,2,f,Custodian or Department Manager,Finance and Procurement,1
+750c04a5-63c4-42c6-a7c4-b3aa1de4eebf,Hany Bakr,fm.manager@bua.test,active,f,2026-09-11 08:36:10.142818+00,2026-09-11,0,f,"Custodian or Department Manager, Maintenance Technician",Facilities Management,2
+76368d26-ee94-46f4-a13e-259a7f0ce5dc,Dina Farouk,auditor@bua.test,active,t,2026-09-11 04:36:10.142818+00,2026-09-11,2,f,Auditor,University-wide,1
+8703fd82-ea7e-461c-bacc-18cd5a7c3d3b,Salma Ibrahim,ai.manager@bua.test,active,f,2026-09-05 21:36:10.142818+00,2026-09-05,2,f,Custodian or Department Manager,Artificial Intelligence Department,1
+a88277d6-7193-4856-b318-4d7fb0af2f58,Mostafa Adel,procurement@bua.test,active,t,2026-09-02 21:36:10.142818+00,2026-09-02,1,f,Procurement and Finance Viewer,Main Campus,1
+b0b54190-fcf5-486a-aa97-94a938211aec,Nadia Sobhy,tech.five@bua.test,active,f,2026-09-20 03:36:10.142818+00,2026-09-20,1,f,Maintenance Technician,Facilities Management,1
+b556717b-a757-49e7-8859-2d3aeca41e88,Tarek Selim,eng.admin@bua.test,active,f,2026-09-12 01:36:10.142818+00,2026-09-12,0,f,"Asset Administrator, Custodian or Department Manager",Faculty of Engineering,2
+c2f8c8e5-af2d-4fa5-bef8-f8c299334c4a,Islam Fathy,tech.four@bua.test,active,f,2026-09-15 22:36:10.142818+00,2026-09-15,1,f,Maintenance Technician,Main Campus,1
+d1897fd4-bfcd-4ae2-9116-db7e3407cd59,Rania Gamal,finance.view@bua.test,active,f,2026-09-06 13:36:10.142818+00,2026-09-06,0,f,Procurement and Finance Viewer,Main Campus,1
+d56ed0bc-14f2-4ec0-bfa7-17251f5a9deb,Locked Test Account,locked.user@bua.test,locked,f,,,5,t,No role,University-wide,0
+d6a6435c-8728-43ae-9329-dfb5a8d63e74,Former Staff Account,former.staff@bua.test,disabled,f,,,1,f,No role,University-wide,0
+dac8cfc5-9369-4ddd-93a4-0a33c40b54b1,Aya Mansour,tech.three@bua.test,active,f,2026-09-07 07:36:10.142818+00,2026-09-07,1,f,Maintenance Technician,Faculty of AI and Data Management,1
+f4f9be59-90a4-4645-9907-3a1110570d64,Nour Fahmy,ai.admin@bua.test,active,f,2026-09-16 07:36:10.142818+00,2026-09-16,1,f,Asset Administrator,Faculty of AI and Data Management,1

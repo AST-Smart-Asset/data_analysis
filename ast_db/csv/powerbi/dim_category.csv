@@ -1,0 +1,18 @@
+category_id,category_code,category_name,parent_category_id,category_group_code,category_group_name,useful_life_months,useful_life_years,requires_serial
+0cdf117f-36ca-4259-8da3-05a2f5529b77,IT,Information Technology,,IT,Information Technology,,,f
+5d216b89-12a3-42b9-8b59-9660aab5a112,FURN,Furniture,,FURN,Furniture,,,f
+6acf2340-2aec-4b4d-8b9a-d230b0848b5a,FAC,Facility Equipment,,FAC,Facility Equipment,,,f
+c20a36a1-bf32-4b37-bf1c-5a3da128436e,LAB,Laboratory Equipment,,LAB,Laboratory Equipment,,,f
+928e1185-3903-4639-bd6e-0fe5d4e1bd5e,IT-PC,Desktop Computer,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT,Information Technology,60,5.0,t
+6b10649a-5c67-48f5-b4b7-9040805a9348,IT-LAPTOP,Laptop,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT,Information Technology,48,4.0,t
+95ef5f39-7726-40fc-a96e-a70dc1197538,IT-MONITOR,Monitor,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT,Information Technology,72,6.0,t
+dcef2060-f580-4ab7-a9eb-745c55d8e893,IT-PRINTER,Printer,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT,Information Technology,60,5.0,t
+4b27503f-1f69-4ff3-bbc6-f31d8394bbe6,IT-SWITCH,Network Switch,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT,Information Technology,84,7.0,t
+9fc46e12-92c2-4613-b9b1-dd8845412769,IT-PROJ,Projector,0cdf117f-36ca-4259-8da3-05a2f5529b77,IT,Information Technology,48,4.0,t
+d722453f-11da-442f-b41b-15b9deacbe80,FURN-DESK,Office Desk,5d216b89-12a3-42b9-8b59-9660aab5a112,FURN,Furniture,120,10.0,f
+f01bbdb0-5e6b-46f9-bc6c-97ce11922f55,FURN-CHAIR,Office Chair,5d216b89-12a3-42b9-8b59-9660aab5a112,FURN,Furniture,84,7.0,f
+06e541d2-a9a0-47e4-96ff-9533e92db5b6,FURN-CAB,Filing Cabinet,5d216b89-12a3-42b9-8b59-9660aab5a112,FURN,Furniture,144,12.0,f
+d0e25360-20be-40a4-b4d4-f150206a2e30,FAC-AC,Air Conditioner,6acf2340-2aec-4b4d-8b9a-d230b0848b5a,FAC,Facility Equipment,96,8.0,t
+ff750985-39b3-490c-ae1d-fc28825b511f,FAC-UPS,UPS Unit,6acf2340-2aec-4b4d-8b9a-d230b0848b5a,FAC,Facility Equipment,60,5.0,t
+f4f70d56-e321-4804-9b2d-7bd5ea0e9255,LAB-OSC,Oscilloscope,c20a36a1-bf32-4b37-bf1c-5a3da128436e,LAB,Laboratory Equipment,120,10.0,t
+f0a14b69-c0ce-4372-ae3d-ae946d801d82,LAB-3DP,3D Printer,c20a36a1-bf32-4b37-bf1c-5a3da128436e,LAB,Laboratory Equipment,72,6.0,t

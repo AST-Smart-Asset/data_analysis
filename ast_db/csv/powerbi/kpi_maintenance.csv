@@ -1,0 +1,59 @@
+org_unit_name,building,category_name,work_order_count,preventive_count,corrective_count,preventive_pct,outstanding_count,overdue_count,mttr_hours,downtime_minutes,downtime_hours,maintenance_cost
+Electrical Engineering Department,Engineering Building,Oscilloscope,8,4,4,50.0,2,1,15.76,5674,94.6,8134.00
+Finance and Procurement,Administration Building,Network Switch,20,17,3,85.0,5,2,5.10,4589,76.5,13256.00
+Facilities Management,Administration Building,Desktop Computer,112,106,6,94.6,16,3,3.01,17348,289.1,52306.00
+Data Science Department,AI and Data Science Building,3D Printer,1,0,1,0.0,0,0,30.70,1842,30.7,600.00
+Finance and Procurement,Administration Building,Office Desk,13,10,3,76.9,6,2,9.76,4100,68.3,4827.00
+Data Science Department,AI and Data Science Building,Monitor,56,47,9,83.9,17,5,6.19,14472,241.2,25184.00
+Artificial Intelligence Department,AI and Data Science Building,Office Chair,3,0,3,0.0,1,1,14.64,1757,29.3,5041.00
+Artificial Intelligence Department,AI and Data Science Building,Air Conditioner,13,13,0,100.0,1,0,1.47,1058,17.6,4844.00
+Computer Science Department,Engineering Building,Desktop Computer,112,95,17,84.8,12,3,5.84,33294,554.9,68181.00
+Electrical Engineering Department,Engineering Building,Office Chair,2,0,2,0.0,0,0,42.24,5068,84.5,2701.00
+Finance and Procurement,Administration Building,Laptop,42,37,5,88.1,7,2,5.04,10588,176.5,19402.00
+Data Science Department,AI and Data Science Building,UPS Unit,4,4,0,100.0,1,0,0.83,149,2.5,1594.00
+Data Science Department,AI and Data Science Building,Projector,2,0,2,0.0,0,0,38.20,4584,76.4,1634.00
+Electrical Engineering Department,Engineering Building,Monitor,67,57,10,85.1,15,0,6.57,20509,341.8,28342.00
+Facilities Management,Administration Building,Printer,46,43,3,93.5,6,2,3.33,7981,133.0,21172.00
+Facilities Management,Administration Building,Office Desk,16,13,3,81.3,6,0,5.47,3279,54.7,12007.00
+Facilities Management,Administration Building,Projector,4,0,4,0.0,0,0,34.93,8384,139.7,4901.00
+Electrical Engineering Department,Engineering Building,Desktop Computer,158,133,25,84.2,24,10,4.84,38616,643.6,74373.00
+Computer Science Department,Engineering Building,Office Chair,10,0,10,0.0,0,0,24.06,14437,240.6,14830.00
+Finance and Procurement,Administration Building,Desktop Computer,84,75,9,89.3,12,6,3.93,16258,271.0,41869.00
+Computer Science Department,Engineering Building,Office Desk,13,12,1,92.3,5,0,4.77,2290,38.2,5409.00
+Facilities Management,Administration Building,Office Chair,2,0,2,0.0,0,0,31.43,3771,62.9,2954.00
+Electrical Engineering Department,Engineering Building,3D Printer,8,0,8,0.0,1,1,27.58,11583,193.1,3431.00
+Electrical Engineering Department,Engineering Building,Projector,7,0,7,0.0,1,1,21.47,7730,128.8,5385.00
+Facilities Management,Administration Building,Monitor,36,29,7,80.6,8,0,7.72,12962,216.0,22610.00
+Computer Science Department,Engineering Building,Network Switch,15,13,2,86.7,5,2,5.82,3492,58.2,8427.00
+Artificial Intelligence Department,AI and Data Science Building,UPS Unit,41,36,5,87.8,7,6,6.21,12677,211.3,26567.00
+Artificial Intelligence Department,AI and Data Science Building,Network Switch,30,25,5,83.3,8,1,7.30,9640,160.7,14794.00
+Data Science Department,AI and Data Science Building,Laptop,39,35,4,89.7,5,0,5.62,11474,191.2,23803.00
+Artificial Intelligence Department,AI and Data Science Building,Laptop,52,46,6,88.5,8,3,3.53,9324,155.4,28411.00
+Artificial Intelligence Department,AI and Data Science Building,Printer,14,12,2,85.7,2,1,3.84,2768,46.1,6948.00
+Computer Science Department,Engineering Building,UPS Unit,40,39,1,97.5,6,1,2.26,4611,76.9,19297.00
+Artificial Intelligence Department,AI and Data Science Building,Office Desk,21,17,4,81.0,7,0,7.70,6469,107.8,11370.00
+Data Science Department,AI and Data Science Building,Air Conditioner,40,37,3,92.5,3,1,3.50,7772,129.5,18100.00
+Finance and Procurement,Administration Building,Office Chair,1,0,1,0.0,0,0,4.48,269,4.5,1425.00
+Data Science Department,AI and Data Science Building,Office Desk,9,8,1,88.9,3,0,9.67,3482,58.0,5011.00
+Finance and Procurement,Administration Building,Monitor,26,20,6,76.9,6,1,10.76,12907,215.1,16654.00
+Finance and Procurement,Administration Building,Oscilloscope,23,20,3,87.0,5,0,3.81,4119,68.7,15993.00
+Artificial Intelligence Department,AI and Data Science Building,Desktop Computer,142,126,16,88.7,16,5,4.43,32420,540.3,73784.00
+Electrical Engineering Department,Engineering Building,Printer,41,38,3,92.7,5,1,3.55,7664,127.7,18386.00
+Data Science Department,AI and Data Science Building,Desktop Computer,114,102,12,89.5,18,6,4.28,24628,410.5,57584.00
+Artificial Intelligence Department,AI and Data Science Building,Monitor,41,35,6,85.4,9,1,5.98,11126,185.4,22681.00
+Electrical Engineering Department,Engineering Building,Laptop,47,42,5,89.4,6,0,5.34,13143,219.1,26860.00
+Computer Science Department,Engineering Building,Filing Cabinet,17,0,17,0.0,2,2,21.81,19628,327.1,20480.00
+Artificial Intelligence Department,AI and Data Science Building,Oscilloscope,19,16,3,84.2,4,0,4.66,4197,70.0,11688.00
+Finance and Procurement,Administration Building,Filing Cabinet,7,0,7,0.0,1,1,20.90,7524,125.4,8128.00
+Data Science Department,AI and Data Science Building,Printer,25,24,1,96.0,3,0,2.17,2866,47.8,10358.00
+Computer Science Department,Engineering Building,Laptop,41,30,11,73.2,5,1,9.99,21575,359.6,32649.00
+Data Science Department,AI and Data Science Building,Office Chair,7,0,7,0.0,0,0,22.67,9522,158.7,8644.00
+Computer Science Department,Engineering Building,Projector,1,0,1,0.0,0,0,15.65,939,15.7,1630.00
+Facilities Management,Administration Building,3D Printer,8,0,8,0.0,0,0,22.32,10715,178.6,14060.00
+Electrical Engineering Department,Engineering Building,Air Conditioner,77,72,5,93.5,7,4,2.95,12388,206.5,37633.00
+Facilities Management,Administration Building,Air Conditioner,48,44,4,91.7,4,0,2.46,6504,108.4,22065.00
+Finance and Procurement,Administration Building,UPS Unit,14,14,0,100.0,2,0,2.04,1468,24.5,5670.00
+Electrical Engineering Department,Engineering Building,Office Desk,15,14,1,93.3,6,1,3.10,1674,27.9,4361.00
+Facilities Management,Administration Building,Laptop,36,31,5,86.1,5,0,5.45,10143,169.1,21425.00
+Computer Science Department,Engineering Building,Oscilloscope,33,23,10,69.7,7,2,9.57,14928,248.8,24458.00
+Computer Science Department,Engineering Building,Monitor,81,65,16,80.2,20,4,9.04,33080,551.3,44627.00

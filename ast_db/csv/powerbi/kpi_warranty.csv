@@ -1,0 +1,150 @@
+org_unit_name,building,category_name,warranty_bucket,asset_count,purchase_cost_at_risk
+Artificial Intelligence Department,AI and Data Science Building,Air Conditioner,expired,1,21000.00
+Artificial Intelligence Department,AI and Data Science Building,Desktop Computer,covered,1,20200.00
+Artificial Intelligence Department,AI and Data Science Building,Desktop Computer,expired,11,219800.00
+Artificial Intelligence Department,AI and Data Science Building,Desktop Computer,expiring in 90 days,2,44400.00
+Artificial Intelligence Department,AI and Data Science Building,Desktop Computer,no warranty on record,6,117200.00
+Artificial Intelligence Department,AI and Data Science Building,Filing Cabinet,covered,1,3020.00
+Artificial Intelligence Department,AI and Data Science Building,Filing Cabinet,expired,2,6260.00
+Artificial Intelligence Department,AI and Data Science Building,Filing Cabinet,no warranty on record,2,6480.00
+Artificial Intelligence Department,AI and Data Science Building,Laptop,expired,4,126000.00
+Artificial Intelligence Department,AI and Data Science Building,Laptop,no warranty on record,5,147100.00
+Artificial Intelligence Department,AI and Data Science Building,Monitor,covered,1,4860.00
+Artificial Intelligence Department,AI and Data Science Building,Monitor,expired,7,31460.00
+Artificial Intelligence Department,AI and Data Science Building,Monitor,no warranty on record,1,5180.00
+Artificial Intelligence Department,AI and Data Science Building,Network Switch,covered,2,27400.00
+Artificial Intelligence Department,AI and Data Science Building,Network Switch,expired,3,33100.00
+Artificial Intelligence Department,AI and Data Science Building,Network Switch,no warranty on record,3,36300.00
+Artificial Intelligence Department,AI and Data Science Building,Office Chair,expired,2,4370.00
+Artificial Intelligence Department,AI and Data Science Building,Office Chair,no warranty on record,2,4560.00
+Artificial Intelligence Department,AI and Data Science Building,Office Desk,covered,4,16740.00
+Artificial Intelligence Department,AI and Data Science Building,Office Desk,expired,2,8500.00
+Artificial Intelligence Department,AI and Data Science Building,Office Desk,no warranty on record,1,3860.00
+Artificial Intelligence Department,AI and Data Science Building,Oscilloscope,expired,2,143000.00
+Artificial Intelligence Department,AI and Data Science Building,Oscilloscope,no warranty on record,2,143000.00
+Artificial Intelligence Department,AI and Data Science Building,Printer,covered,1,9200.00
+Artificial Intelligence Department,AI and Data Science Building,Printer,expired,1,10900.00
+Artificial Intelligence Department,AI and Data Science Building,UPS Unit,covered,2,18600.00
+Artificial Intelligence Department,AI and Data Science Building,UPS Unit,expired,5,51250.00
+Computer Science Department,Engineering Building,Desktop Computer,covered,5,105000.00
+Computer Science Department,Engineering Building,Desktop Computer,expired,6,121200.00
+Computer Science Department,Engineering Building,Desktop Computer,expiring in 90 days,1,23400.00
+Computer Science Department,Engineering Building,Desktop Computer,no warranty on record,4,76000.00
+Computer Science Department,Engineering Building,Filing Cabinet,no warranty on record,3,8840.00
+Computer Science Department,Engineering Building,Laptop,covered,1,28900.00
+Computer Science Department,Engineering Building,Laptop,expired,2,57800.00
+Computer Science Department,Engineering Building,Laptop,no warranty on record,2,63000.00
+Computer Science Department,Engineering Building,Monitor,covered,5,21740.00
+Computer Science Department,Engineering Building,Monitor,expired,9,40540.00
+Computer Science Department,Engineering Building,Monitor,expiring in 30 days,1,3900.00
+Computer Science Department,Engineering Building,Monitor,no warranty on record,3,12660.00
+Computer Science Department,Engineering Building,Network Switch,expired,3,39500.00
+Computer Science Department,Engineering Building,Network Switch,no warranty on record,1,15300.00
+Computer Science Department,Engineering Building,Office Chair,covered,1,2280.00
+Computer Science Department,Engineering Building,Office Chair,expired,5,11210.00
+Computer Science Department,Engineering Building,Office Chair,no warranty on record,2,4370.00
+Computer Science Department,Engineering Building,Office Desk,covered,2,8500.00
+Computer Science Department,Engineering Building,Office Desk,expired,3,12620.00
+Computer Science Department,Engineering Building,Oscilloscope,covered,1,71500.00
+Computer Science Department,Engineering Building,Oscilloscope,expired,3,243000.00
+Computer Science Department,Engineering Building,Oscilloscope,no warranty on record,1,81000.00
+Computer Science Department,Engineering Building,Projector,covered,1,16600.00
+Computer Science Department,Engineering Building,UPS Unit,covered,1,7400.00
+Computer Science Department,Engineering Building,UPS Unit,expired,4,36250.00
+Computer Science Department,Engineering Building,UPS Unit,no warranty on record,1,7400.00
+Data Science Department,AI and Data Science Building,3D Printer,covered,1,35400.00
+Data Science Department,AI and Data Science Building,3D Printer,expired,4,125600.00
+Data Science Department,AI and Data Science Building,Air Conditioner,expired,4,100800.00
+Data Science Department,AI and Data Science Building,Desktop Computer,covered,5,102600.00
+Data Science Department,AI and Data Science Building,Desktop Computer,expired,7,145400.00
+Data Science Department,AI and Data Science Building,Desktop Computer,expiring in 90 days,1,18600.00
+Data Science Department,AI and Data Science Building,Desktop Computer,no warranty on record,2,38000.00
+Data Science Department,AI and Data Science Building,Laptop,expired,5,139300.00
+Data Science Department,AI and Data Science Building,Monitor,covered,3,14260.00
+Data Science Department,AI and Data Science Building,Monitor,expired,7,34020.00
+Data Science Department,AI and Data Science Building,Monitor,no warranty on record,4,20720.00
+Data Science Department,AI and Data Science Building,Office Chair,covered,2,4560.00
+Data Science Department,AI and Data Science Building,Office Chair,expired,3,6840.00
+Data Science Department,AI and Data Science Building,Office Chair,no warranty on record,1,1900.00
+Data Science Department,AI and Data Science Building,Office Desk,covered,1,4380.00
+Data Science Department,AI and Data Science Building,Office Desk,expired,3,12620.00
+Data Science Department,AI and Data Science Building,Office Desk,no warranty on record,1,4120.00
+Data Science Department,AI and Data Science Building,Printer,covered,1,10900.00
+Data Science Department,AI and Data Science Building,Printer,expired,1,9200.00
+Data Science Department,AI and Data Science Building,Printer,no warranty on record,1,10900.00
+Data Science Department,AI and Data Science Building,Projector,covered,1,14500.00
+Data Science Department,AI and Data Science Building,Projector,expired,2,33200.00
+Data Science Department,AI and Data Science Building,Projector,no warranty on record,2,35300.00
+Data Science Department,AI and Data Science Building,UPS Unit,covered,1,7400.00
+Electrical Engineering Department,Engineering Building,3D Printer,covered,1,35400.00
+Electrical Engineering Department,Engineering Building,3D Printer,expired,2,67600.00
+Electrical Engineering Department,Engineering Building,3D Printer,no warranty on record,1,38600.00
+Electrical Engineering Department,Engineering Building,Air Conditioner,covered,2,58800.00
+Electrical Engineering Department,Engineering Building,Air Conditioner,expired,4,134400.00
+Electrical Engineering Department,Engineering Building,Air Conditioner,no warranty on record,1,21000.00
+Electrical Engineering Department,Engineering Building,Desktop Computer,covered,2,42000.00
+Electrical Engineering Department,Engineering Building,Desktop Computer,expired,9,178600.00
+Electrical Engineering Department,Engineering Building,Desktop Computer,expiring in 30 days,1,20200.00
+Electrical Engineering Department,Engineering Building,Desktop Computer,no warranty on record,7,143800.00
+Electrical Engineering Department,Engineering Building,Laptop,expired,5,162700.00
+Electrical Engineering Department,Engineering Building,Laptop,no warranty on record,1,30200.00
+Electrical Engineering Department,Engineering Building,Monitor,covered,3,12660.00
+Electrical Engineering Department,Engineering Building,Monitor,expired,8,37600.00
+Electrical Engineering Department,Engineering Building,Monitor,no warranty on record,4,18480.00
+Electrical Engineering Department,Engineering Building,Office Chair,expired,1,2280.00
+Electrical Engineering Department,Engineering Building,Office Chair,no warranty on record,2,4750.00
+Electrical Engineering Department,Engineering Building,Office Desk,covered,1,4120.00
+Electrical Engineering Department,Engineering Building,Office Desk,expired,3,12880.00
+Electrical Engineering Department,Engineering Building,Office Desk,no warranty on record,2,8240.00
+Electrical Engineering Department,Engineering Building,Oscilloscope,expired,1,81000.00
+Electrical Engineering Department,Engineering Building,Printer,covered,2,21800.00
+Electrical Engineering Department,Engineering Building,Printer,expired,3,32700.00
+Electrical Engineering Department,Engineering Building,Printer,expiring in 30 days,1,10900.00
+Electrical Engineering Department,Engineering Building,Projector,expired,3,47700.00
+Electrical Engineering Department,Engineering Building,Projector,no warranty on record,1,18700.00
+Facilities Management,Administration Building,3D Printer,covered,1,35400.00
+Facilities Management,Administration Building,3D Printer,expired,5,170600.00
+Facilities Management,Administration Building,Air Conditioner,covered,2,58800.00
+Facilities Management,Administration Building,Air Conditioner,expired,2,54600.00
+Facilities Management,Administration Building,Air Conditioner,no warranty on record,1,21000.00
+Facilities Management,Administration Building,Desktop Computer,covered,1,21800.00
+Facilities Management,Administration Building,Desktop Computer,expired,7,139800.00
+Facilities Management,Administration Building,Desktop Computer,expiring in 90 days,3,60600.00
+Facilities Management,Administration Building,Desktop Computer,no warranty on record,5,96200.00
+Facilities Management,Administration Building,Laptop,covered,1,25000.00
+Facilities Management,Administration Building,Laptop,expired,2,59100.00
+Facilities Management,Administration Building,Laptop,expiring in 90 days,1,32800.00
+Facilities Management,Administration Building,Laptop,no warranty on record,1,34100.00
+Facilities Management,Administration Building,Monitor,expired,2,8760.00
+Facilities Management,Administration Building,Monitor,no warranty on record,5,22380.00
+Facilities Management,Administration Building,Office Chair,expired,4,8930.00
+Facilities Management,Administration Building,Office Chair,expiring in 30 days,1,2280.00
+Facilities Management,Administration Building,Office Chair,expiring in 90 days,1,2280.00
+Facilities Management,Administration Building,Office Chair,no warranty on record,1,2470.00
+Facilities Management,Administration Building,Office Desk,covered,2,7980.00
+Facilities Management,Administration Building,Office Desk,expired,4,15960.00
+Facilities Management,Administration Building,Printer,covered,3,32700.00
+Facilities Management,Administration Building,Printer,expired,3,35250.00
+Facilities Management,Administration Building,Projector,expired,5,89300.00
+Facilities Management,Administration Building,Projector,expiring in 90 days,1,18700.00
+Finance and Procurement,Administration Building,Desktop Computer,covered,8,151200.00
+Finance and Procurement,Administration Building,Desktop Computer,expired,4,80000.00
+Finance and Procurement,Administration Building,Desktop Computer,no warranty on record,2,37200.00
+Finance and Procurement,Administration Building,Filing Cabinet,expired,2,6260.00
+Finance and Procurement,Administration Building,Filing Cabinet,no warranty on record,3,9720.00
+Finance and Procurement,Administration Building,Laptop,covered,1,28900.00
+Finance and Procurement,Administration Building,Laptop,expired,2,63000.00
+Finance and Procurement,Administration Building,Laptop,no warranty on record,3,88000.00
+Finance and Procurement,Administration Building,Monitor,covered,3,15220.00
+Finance and Procurement,Administration Building,Monitor,expired,2,8440.00
+Finance and Procurement,Administration Building,Monitor,no warranty on record,1,5500.00
+Finance and Procurement,Administration Building,Network Switch,expired,3,42700.00
+Finance and Procurement,Administration Building,Network Switch,no warranty on record,2,22600.00
+Finance and Procurement,Administration Building,Office Chair,expired,1,2090.00
+Finance and Procurement,Administration Building,Office Chair,no warranty on record,3,7790.00
+Finance and Procurement,Administration Building,Office Desk,expired,4,16740.00
+Finance and Procurement,Administration Building,Office Desk,no warranty on record,1,4640.00
+Finance and Procurement,Administration Building,Oscilloscope,expired,3,243000.00
+Finance and Procurement,Administration Building,Oscilloscope,no warranty on record,2,152500.00
+Finance and Procurement,Administration Building,UPS Unit,expired,1,10250.00
+Finance and Procurement,Administration Building,UPS Unit,no warranty on record,2,16700.00

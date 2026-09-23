@@ -1,0 +1,60 @@
+org_unit_name,college,department,building,category_group_name,category_name,asset_count,active_count,retired_count,lost_count,without_custodian,without_serial,completeness_pct,total_purchase_cost,avg_age_years
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Facility Equipment,Air Conditioner,1,1,0,0,0,0,100.0,21000.00,3.82
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Facility Equipment,UPS Unit,7,7,0,0,0,0,100.0,69850.00,3.49
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Furniture,Filing Cabinet,5,4,0,0,0,5,0.0,15760.00,3.48
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Furniture,Office Chair,4,4,0,0,0,4,0.0,8930.00,2.81
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Furniture,Office Desk,8,6,1,0,0,8,0.0,32960.00,2.84
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Information Technology,Desktop Computer,20,20,0,0,0,0,100.0,401600.00,4.30
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Information Technology,Laptop,9,7,0,0,0,0,100.0,273100.00,4.88
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Information Technology,Monitor,9,9,0,0,0,0,100.0,41500.00,4.00
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Information Technology,Network Switch,8,8,0,0,0,0,100.0,96800.00,2.87
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Information Technology,Printer,2,2,0,0,0,0,100.0,20100.00,1.82
+Artificial Intelligence Department,Faculty of AI and Data Management,Artificial Intelligence Department,AI and Data Science Building,Laboratory Equipment,Oscilloscope,4,4,0,0,0,0,100.0,286000.00,4.84
+Computer Science Department,Faculty of Engineering,Computer Science Department,Engineering Building,Facility Equipment,UPS Unit,6,6,0,0,0,0,100.0,51050.00,4.77
+Computer Science Department,Faculty of Engineering,Computer Science Department,Engineering Building,Furniture,Filing Cabinet,6,3,3,0,0,6,0.0,17680.00,5.55
+Computer Science Department,Faculty of Engineering,Computer Science Department,Engineering Building,Furniture,Office Chair,9,8,1,0,0,9,0.0,20520.00,3.90
+Computer Science Department,Faculty of Engineering,Computer Science Department,Engineering Building,Furniture,Office Desk,5,5,0,0,0,5,0.0,21120.00,3.44
+Computer Science Department,Faculty of Engineering,Computer Science Department,Engineering Building,Information Technology,Desktop Computer,18,15,2,0,0,0,88.9,364400.00,3.38
+Computer Science Department,Faculty of Engineering,Computer Science Department,Engineering Building,Information Technology,Laptop,5,5,0,0,0,0,100.0,149700.00,3.39
+Computer Science Department,Faculty of Engineering,Computer Science Department,Engineering Building,Information Technology,Monitor,20,17,2,0,0,0,90.0,87920.00,3.95
+Computer Science Department,Faculty of Engineering,Computer Science Department,Engineering Building,Information Technology,Network Switch,4,4,0,0,0,0,100.0,54800.00,3.33
+Computer Science Department,Faculty of Engineering,Computer Science Department,Engineering Building,Information Technology,Projector,1,1,0,0,0,0,100.0,16600.00,0.99
+Computer Science Department,Faculty of Engineering,Computer Science Department,Engineering Building,Laboratory Equipment,Oscilloscope,7,4,2,1,0,0,71.4,538500.00,3.81
+Data Science Department,Faculty of AI and Data Management,Data Science Department,AI and Data Science Building,Facility Equipment,Air Conditioner,4,2,0,1,0,0,100.0,100800.00,5.42
+Data Science Department,Faculty of AI and Data Management,Data Science Department,AI and Data Science Building,Facility Equipment,UPS Unit,1,1,0,0,0,0,100.0,7400.00,1.40
+Data Science Department,Faculty of AI and Data Management,Data Science Department,AI and Data Science Building,Furniture,Office Chair,7,6,1,0,0,7,0.0,15200.00,3.44
+Data Science Department,Faculty of AI and Data Management,Data Science Department,AI and Data Science Building,Furniture,Office Desk,5,3,0,0,0,5,0.0,21120.00,4.79
+Data Science Department,Faculty of AI and Data Management,Data Science Department,AI and Data Science Building,Information Technology,Desktop Computer,17,14,2,0,0,0,88.2,346600.00,3.99
+Data Science Department,Faculty of AI and Data Management,Data Science Department,AI and Data Science Building,Information Technology,Laptop,5,5,0,0,0,0,100.0,139300.00,3.79
+Data Science Department,Faculty of AI and Data Management,Data Science Department,AI and Data Science Building,Information Technology,Monitor,14,14,0,0,0,0,100.0,69000.00,3.29
+Data Science Department,Faculty of AI and Data Management,Data Science Department,AI and Data Science Building,Information Technology,Printer,3,3,0,0,0,0,100.0,31000.00,2.48
+Data Science Department,Faculty of AI and Data Management,Data Science Department,AI and Data Science Building,Information Technology,Projector,5,5,0,0,0,0,100.0,83000.00,2.53
+Data Science Department,Faculty of AI and Data Management,Data Science Department,AI and Data Science Building,Laboratory Equipment,3D Printer,5,5,0,0,0,0,100.0,161000.00,4.14
+Electrical Engineering Department,Faculty of Engineering,Electrical Engineering Department,Engineering Building,Facility Equipment,Air Conditioner,7,7,0,0,0,0,100.0,214200.00,3.71
+Electrical Engineering Department,Faculty of Engineering,Electrical Engineering Department,Engineering Building,Furniture,Office Chair,3,3,0,0,0,3,0.0,7030.00,4.00
+Electrical Engineering Department,Faculty of Engineering,Electrical Engineering Department,Engineering Building,Furniture,Office Desk,6,6,0,0,0,6,0.0,25240.00,4.14
+Electrical Engineering Department,Faculty of Engineering,Electrical Engineering Department,Engineering Building,Information Technology,Desktop Computer,21,17,2,2,0,0,90.5,424200.00,3.85
+Electrical Engineering Department,Faculty of Engineering,Electrical Engineering Department,Engineering Building,Information Technology,Laptop,6,6,0,0,0,0,100.0,192900.00,4.81
+Electrical Engineering Department,Faculty of Engineering,Electrical Engineering Department,Engineering Building,Information Technology,Monitor,15,13,0,2,0,0,100.0,68740.00,3.99
+Electrical Engineering Department,Faculty of Engineering,Electrical Engineering Department,Engineering Building,Information Technology,Printer,6,5,0,0,0,0,100.0,65400.00,3.20
+Electrical Engineering Department,Faculty of Engineering,Electrical Engineering Department,Engineering Building,Information Technology,Projector,5,4,1,0,0,0,80.0,80900.00,5.00
+Electrical Engineering Department,Faculty of Engineering,Electrical Engineering Department,Engineering Building,Laboratory Equipment,3D Printer,5,4,1,0,0,0,80.0,177000.00,4.52
+Electrical Engineering Department,Faculty of Engineering,Electrical Engineering Department,Engineering Building,Laboratory Equipment,Oscilloscope,1,1,0,0,0,0,100.0,81000.00,3.06
+Facilities Management,Facilities Management,,Administration Building,Facility Equipment,Air Conditioner,5,3,0,1,0,0,100.0,134400.00,3.09
+Facilities Management,Facilities Management,,Administration Building,Furniture,Office Chair,7,7,0,0,0,7,0.0,15960.00,3.68
+Facilities Management,Facilities Management,,Administration Building,Furniture,Office Desk,6,6,0,0,0,6,0.0,23940.00,2.83
+Facilities Management,Facilities Management,,Administration Building,Information Technology,Desktop Computer,16,16,0,0,0,0,100.0,318400.00,4.09
+Facilities Management,Facilities Management,,Administration Building,Information Technology,Laptop,5,4,0,1,0,0,100.0,151000.00,3.14
+Facilities Management,Facilities Management,,Administration Building,Information Technology,Monitor,8,7,1,0,0,0,87.5,36320.00,3.52
+Facilities Management,Facilities Management,,Administration Building,Information Technology,Printer,6,6,0,0,0,0,100.0,67950.00,3.45
+Facilities Management,Facilities Management,,Administration Building,Information Technology,Projector,6,6,0,0,0,0,100.0,108000.00,4.69
+Facilities Management,Facilities Management,,Administration Building,Laboratory Equipment,3D Printer,7,6,1,0,0,0,85.7,241400.00,3.88
+Finance and Procurement,Finance and Procurement,,Administration Building,Facility Equipment,UPS Unit,3,2,0,0,0,0,100.0,26950.00,5.23
+Finance and Procurement,Finance and Procurement,,Administration Building,Furniture,Filing Cabinet,6,5,1,0,0,6,0.0,19440.00,4.23
+Finance and Procurement,Finance and Procurement,,Administration Building,Furniture,Office Chair,4,3,0,0,0,4,0.0,9880.00,3.22
+Finance and Procurement,Finance and Procurement,,Administration Building,Furniture,Office Desk,5,5,0,0,0,5,0.0,21380.00,4.25
+Finance and Procurement,Finance and Procurement,,Administration Building,Information Technology,Desktop Computer,15,14,1,0,0,0,93.3,290200.00,3.15
+Finance and Procurement,Finance and Procurement,,Administration Building,Information Technology,Laptop,6,6,0,0,0,0,100.0,179900.00,3.41
+Finance and Procurement,Finance and Procurement,,Administration Building,Information Technology,Monitor,6,6,0,0,0,0,100.0,29160.00,3.48
+Finance and Procurement,Finance and Procurement,,Administration Building,Information Technology,Network Switch,5,5,0,0,0,0,100.0,65300.00,5.18
+Finance and Procurement,Finance and Procurement,,Administration Building,Laboratory Equipment,Oscilloscope,5,5,0,0,0,0,100.0,395500.00,5.00

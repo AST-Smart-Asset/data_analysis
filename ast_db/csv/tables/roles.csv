@@ -1,0 +1,8 @@
+id,code,name,is_system,created_at
+acb1be16-96c3-4312-a9ae-4d444538a8eb,super_admin,Super Administrator,t,2026-09-21 12:36:10.142818+00
+5d6a1625-84a4-42f7-b8a9-3d8b5f588638,asset_admin,Asset Administrator,t,2026-09-21 12:36:10.142818+00
+cfdf9c71-a68b-4062-9735-c4e7a460ab0e,procurement_viewer,Procurement and Finance Viewer,t,2026-09-21 12:36:10.142818+00
+7125c931-a588-4fa0-b6fc-f4f5f8306834,custodian,Custodian or Department Manager,t,2026-09-21 12:36:10.142818+00
+f71ba978-1866-44ef-a4cb-b46a13f1b9de,technician,Maintenance Technician,t,2026-09-21 12:36:10.142818+00
+4267a8ba-0dd1-47e7-bfac-7e989cfba4b3,auditor,Auditor,t,2026-09-21 12:36:10.142818+00
+92369649-73a2-4d0f-8cec-4bde508ab98f,retirement_approver,Retirement Approver,t,2026-09-21 12:36:10.142818+00
